@@ -1,3 +1,4 @@
 # data-cleaning
 
-Module 1 in jupyter notebook
+All modules of data cleaning of kaggle.
+
